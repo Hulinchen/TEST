@@ -1,0 +1,18 @@
+<Module>
+<ModulePrefs title="成安宮橫幅" width="750" height="203"></ModulePrefs>
+<UserPref name="iframeURL" display_name="橫幅檔案" datatype="enum" default_value="https://sites.google.com/site/chengangong/home/abc-2.swf">
+<EnumValue value="https://sites.google.com/site/chengangong/home/abc-0.swf" display_value="abc-0.swf"/>
+<EnumValue value="https://sites.google.com/site/chengangong/home/abc-1.swf" display_value="abc-1.swf"/>
+<EnumValue value="https://sites.google.com/site/chengangong/home/abc-2.swf" display_value="abc-2.swf"/>
+<EnumValue value="https://sites.google.com/site/chengangong/home/abc-3.swf" display_value="abc-3.swf"/>
+<EnumValue value="https://sites.google.com/site/chengangong/home/abc-4.swf" display_value="abc-4.swf"/>
+<EnumValue value="https://sites.google.com/site/chengangong/home/abc-5.swf" display_value="abc-5.swf"/>
+<EnumValue value="https://sites.google.com/site/chengangong/home/abc-6.swf" display_value="abc-6.swf"/>
+<EnumValue value="https://sites.google.com/site/chengangong/home/abc-7.swf" display_value="abc-7.swf"/>
+</UserPref>
+<Content type="html">
+<![CDATA[
+<video autoplay="autoplay" loop="loop"> <source src="https://sites.google.com/site/chengangongbak/home/banner1.mp4" type="video/mp4" /> </video>
+]]>
+</Content>
+</Module>
